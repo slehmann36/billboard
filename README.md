@@ -1,5 +1,5 @@
 # Billboard
-Short description and motivation.
+Public feature suggestion and voting system for rails software products.
 
 ## Installation
 Add this line to your application's Gemfile:
@@ -19,7 +19,7 @@ $ gem install billboard
 ```
 
 ## Usage
-How to use my plugin.
+TODO: Write usage instructions here
 
 ## Contributing
 Bug reports and pull requests are welcome on GitHub at https://github.com/slehmann36/billboard. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the Contributor Covenant code of conduct.
