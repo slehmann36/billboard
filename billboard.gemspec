@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = Billboard::VERSION
   s.authors     = ["Simon Lehmann"]
   s.email       = ["slehmann36@gmail.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of Billboard."
-  s.description = "TODO: Description of Billboard."
+  s.homepage    = "https://github.com/slehmann36/billboard"
+  s.summary     = "Public feature suggestion and voting system for rails software products."
+  # s.description = "TODO: Description of Billboard."
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
